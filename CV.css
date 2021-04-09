@@ -1,0 +1,49 @@
+body{
+    width: 60%;
+    height: 70%;
+    margin-left: 20%;
+}
+p, ul, hr{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+}
+.name{
+    font-size: 25px;
+    margin-top: 2em;
+}
+.details{
+    margin-bottom: 2em;
+}
+.title1, .title2, .title3, .title4, .title5, .title6, .title7, .title8,.title9{
+    font-size: 20px;
+}
+.summary{
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+.Edu{
+    text-align: justify;
+    font-size: 16px;
+}
+.Professional_training{
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+.Job_Experience{
+    text-align: justify;
+}
+.job1, .job2, .job3, .job4, .job5{
+    margin-bottom: 0.5em;
+}
+.publication, .member, .skill, .Awards, .referee{
+    text-align: justify;
+    margin-bottom: 1em;
+}
+.referee{
+    display: inline-block;
+}
